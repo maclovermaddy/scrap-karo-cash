@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrapKaroCash</string>
+    <string name="title_b2c">B2C Scrap Pickup Request</string>
+    <string name="title_b2b">B2B Commercial Trading Portal</string>
+    <string name="title_b2g">B2G Municipal Waste Management</string>
+    <string name="lbl_rate_calculator">Live Scrap Rate Calculator</string>
+    <string name="lbl_dispatch">Dispatch Reverse-Logistics Agent</string>
+    <string name="lbl_compliance">Verify Government Audit Hash</string>
+    <string name="msg_pickup_success">Pickup scheduled successfully.</string>
+    <string name="msg_compliance_ok">Municipal waste manifest verified under local government compliance.</string>
+</resources>
